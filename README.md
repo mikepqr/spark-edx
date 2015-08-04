@@ -1,3 +1,2 @@
-Mike Williams's solutions for the Spark EdX course CS100.1x.
-
-Private fork of the repository https://github.com/spark-mooc/mooc-setup.
+Mike Williams's solutions for the Berkeley Spark EdX courses CS100.1x
+and CS190.1x.
